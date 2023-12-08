@@ -7,9 +7,9 @@ Because of particle project include project properties setting. Therefore, we st
 
 Team members:
 
--Md Muhtasim Alam Chowdhury
--Chris Mastrangelo
--Muntasir Mamun
+1.Md Muhtasim Alam Chowdhury
+2.Chris Mastrangelo
+3.Muntasir Mamun
 
 
 Firmware
@@ -38,7 +38,5 @@ For hardware setting, please follow the BOM list and Pin Assignment.
 |Heartrate Sensor|MAX30102|1|SCL, SDA|
 
 The circuit and the prototype is show in this figure:  
-![image circuit](./images/circuit.jpg)
-![image circuit](ECE-513_Argon_Project/images/circui(1).jpg)
-![image1](ECE-513_Argon_Project/images/img1.jpg)
-![image2](ECE-513_Argon_Project/images/img2.jpg)
+![image circuit](./images/circuit(1).jpg)
+
