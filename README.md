@@ -39,3 +39,6 @@ For hardware setting, please follow the BOM list and Pin Assignment.
 
 The circuit and the prototype is show in this figure:  
 ![image circuit](./images/circuit.jpg)
+![image circuit](ECE-513_Argon_Project/images/circui(1).jpg)
+![image1](ECE-513_Argon_Project/images/img1.jpg)
+![image2](ECE-513_Argon_Project/images/img2.jpg)
