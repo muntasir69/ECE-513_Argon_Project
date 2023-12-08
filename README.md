@@ -7,9 +7,9 @@ Because of particle project include project properties setting. Therefore, we st
 
 Team members:
 
-1.Md Muhtasim Alam Chowdhury
-2.Chris Mastrangelo
-3.Muntasir Mamun
+*Md Muhtasim Alam Chowdhury
+*Chris Mastrangelo
+*Muntasir Mamun
 
 
 Firmware
